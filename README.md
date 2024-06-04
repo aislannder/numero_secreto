@@ -12,4 +12,4 @@
 
 # Time
 
-<div><img loading="lazy" src="https://avatars.githubusercontent.com/u/e?email=kenissom@hotmail.com&s=74" width=115><br><sub>Aislannder Kenisson</sub></div>
+<div>[<img loading="lazy" src="https://avatars.githubusercontent.com/u/e?email=kenissom@hotmail.com&s=74" width=115><br><sub>Aislannder Kenisson</sub>]</div>
